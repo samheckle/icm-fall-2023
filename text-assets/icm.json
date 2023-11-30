@@ -1,0 +1,134 @@
+{
+  "people": [      
+   {
+      "name": "Sharell",
+      "color": "purple",
+      "words": 
+      [
+         "curious",
+         "goofy",
+         "experimental"
+      ]
+   },   
+   {
+      "name": "Pien",
+      "color": "red",
+      "words": 
+      [
+         "spontaneous",
+         "kind",
+         "kind"
+      ]
+   },   
+   {
+      "name": "Isabel",
+      "color": "red",
+      "words": 
+      [
+         "creative",
+         "tired",
+         "artistic"
+      ]
+   },   
+   {
+      "name": "Weber",
+      "color": "#9CAF88",
+      "words": 
+      [
+         "curious",
+         "chill",
+         "desirous"
+      ]
+   },   
+   {
+      "name": "Vinh",
+      "color": "hotpink",
+      "words": 
+      [
+         "in",
+         "the",
+         "dirt"
+      ]
+   },   
+   {
+      "name": "Siqi",
+      "color": "orange",
+      "words": 
+      [
+         "busy",
+         "lazy",
+         "happy"
+      ]
+   },   
+   {
+      "name": "Bowen",
+      "color": "pink",
+      "words": 
+      [
+         "young",
+         "outgoing",
+         "quiet"
+      ]
+   },   
+   {
+      "name": "Cara",
+      "color": "blue",
+      "words": 
+      [
+         "chill",
+         "tough",
+         "chill"
+      ]
+   },   
+   {
+      "name": "Jasmine",
+      "color": "green",
+      "words": 
+      [
+         "exhausted",
+         "curious",
+         "hungry"
+      ]
+   },   
+   {
+      "name": "Jaiyi",
+      "color": "red",
+      "words": 
+      [
+         "creative",
+         "sensitive",
+         "indecisive"
+      ]
+   },   
+   {
+      "name": "Jiayi",
+      "color": "blue",
+      "words": 
+      [
+         "quiet",
+         "patient",
+         "peaceful"
+      ]
+   },   
+   {
+      "name": "Andrew",
+      "color": "blue",
+      "words": 
+      [
+         "tall",
+         "curious",
+         "person"
+      ]
+   },
+    {
+      "name": "Mia",
+      "color": "black",
+      "words": 
+      [
+         "passionate",
+         "empathetic",
+         "results-driven"
+      ]
+   }
+]
+}
